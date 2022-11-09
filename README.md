@@ -1,6 +1,3 @@
-
-
-
 ### Documents:
 - Document~versions:
     - v0.99
