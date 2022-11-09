@@ -5,12 +5,6 @@
 - Library Codesys template motion OOP Axis
 ***
 ```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
-
-***
-```diff
 + PLCopen Newsletter November 2022:
 
 - To:                   Subscribers PLCopen Newsletter
