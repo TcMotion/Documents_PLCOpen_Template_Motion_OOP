@@ -1,5 +1,5 @@
 ### Documents:
-- Document~versions:
+- Document versions:
     - v0.99
     - v1.0
 
