@@ -1,12 +1,12 @@
-$$\color{white} \fcolorbox{white}{red} {Documents} $$
+$$\color{white} \fcolorbox{white}{red} {Documents}$$
 
 
 ***
-$\color{green}{- Document~versions:}$
+$\color{Olive}{- Document~versions:}$
 
         - v0.99
         - v1.0
-$\color{yellow}{Library Codesys template motion OOP Axis}$
+$\color{blue}{Library Codesys template motion OOP Axis}$
 
 ***
 ```diff
