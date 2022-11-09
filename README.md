@@ -3,7 +3,7 @@
     - v0.99
     - v1.0
 
-- **Library Codesys template motion OOP Axis**
+- **Library PLCOpen OOP template Motion OOP Axis**
 ***
 ```diff
 + PLCopen Newsletter November 2022:
