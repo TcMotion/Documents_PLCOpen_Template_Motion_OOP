@@ -10,7 +10,7 @@
 ```
 
 ***
-```text
+```diff
 PLCopen Newsletter November 2022:
 
 To:                   Subscribers PLCopen Newsletter
