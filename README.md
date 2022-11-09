@@ -4,22 +4,11 @@
     - v1.0
 - Library Codesys template motion OOP Axis
 ***
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
-***
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
-# TODOs:
-
-- <r>TODO:</r> Important thing to do
-- <o>TODO:</o> Less important thing to do
-- <g>DONE:</g> Breath deeply and improve karma
 ***
 ```text
 PLCopen Newsletter November 2022:
