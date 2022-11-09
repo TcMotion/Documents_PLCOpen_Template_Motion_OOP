@@ -1,18 +1,14 @@
-# Documents.
-$\color{green}{test}$
+$$\color{white} \fcolorbox{white}{red} {Documents} $$
+
 
 ***
-- Document versions:
-    - v0.99
-    - v1.0
-- Library Codesys template motion OOP Axis
+$\color{green}{- Document~versions:}$
+
+        - v0.99
+        - v1.0
+$\color{yellow}{Library Codesys template motion OOP Axis}$
+
 ***
-```Texinfo
-holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-```
-
-
-
 ```diff
 + PLCopen Newsletter November 2022:
 
@@ -55,5 +51,6 @@ ________________________________________________________________________
 
 -        plcopen_mc_application_examples_in_oop_version_1.0.pdf
 ```
+
 
 
