@@ -1,30 +1,27 @@
 # Documents.
-- Document v0.99
-- library Codesys template motion OOP Axis
+- Document versions:
+    - v0.99
+    - v1.0
+- Library Codesys template motion OOP Axis
 ***
 
 ```text
 PLCopen Newsletter November 2022:
-Traducir mensaje a: Español | No traducir nunca de: Inglés
-PLCopen
 
 To:                   Subscribers PLCopen Newsletter
 
 Subject:           PLCopen electronic newsletter
 ___________________________________________________________________________
-
 Welcome to the PLCopen® electronic newsletter.
 
 You receive this message because you subscribed to the PLCopen electronic newsletter. 
 
 For comments or additional information check either www.PLCopen.org or send an email to info@PLCopen.org.
 ___________________________________________________________________________
-
 PLCopen Newsletter - Issue November 2022
 
 PLCopen Application Examples for Motion Control into OOP released
 ________________________________________________________________________
-
 2. PLCopen Application Examples for Motion Control into OOP released
 
  
