@@ -2,10 +2,9 @@
 - Document v0.99
 - library Codesys template motion OOP Axis
 ***
-<mark style="background-color: #FFFF00"> PLCopen Newsletter November 2022:</mark> 
 
 ```text
-
+PLCopen Newsletter November 2022:
 Traducir mensaje a: Español | No traducir nunca de: Inglés
 PLCopen
 
