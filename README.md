@@ -48,5 +48,7 @@ The details on the proposed interface and the contained methods as well as sever
 This document focuses on the motion control part of the axes only. In real projects, the axis class will have many other properties and methods for communication, hardware configuration, and additional aspects. For simplicity, these are not explained in this document.
  
 The new document can be downloaded from the PLCopen website.
+
+        plcopen_mc_application_examples_in_oop_version_1.0.pdf
 ```
 
