@@ -5,10 +5,6 @@
 
 - **Library Codesys template motion OOP Axis**
 ***
-~~~sh
-pedro es laositiannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-~~~
-***
 ```diff
 + PLCopen Newsletter November 2022:
 
